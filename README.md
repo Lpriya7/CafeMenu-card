@@ -2,7 +2,7 @@
 **Goal of the Project:**
 The primary goal of the CafeMenu-card project was to create a visually appealing and functional menu card for a café that enhances the customer experience. The menu card needed to be easy to read, navigate, and should effectively showcase the café's offerings without relying on JavaScript. By achieving this, the project aims to provide a seamless user experience and ensure that customers can easily find and select their desired items.
 
-Project Development:
+**Project Development:**
 The development of the CafeMenu-card project involved several key steps:
 
 Planning and Design:
@@ -19,7 +19,7 @@ Testing and Refinement:
 Cross-Browser Testing: The menu card was tested across various browsers (e.g., Chrome, Firefox, Safari, Edge) to ensure consistent appearance and functionality.
 Responsive Design Testing: We tested the menu card on different devices, including smartphones, tablets, and desktops, to ensure it was fully responsive and provided a great user experience on all screen sizes.
 User Feedback: We gathered feedback from a small group of users to identify any areas for improvement. Based on this feedback, we made necessary adjustments to enhance the overall design and usability.
-Important Features of the Project:
+**Important Features of the Project:**
 
 Clean and Intuitive Layout: The menu card features a clean and intuitive layout that makes it easy for customers to find and select their desired items. Categories are clearly defined, and items are organized logically.
 
