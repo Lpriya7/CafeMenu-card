@@ -1,6 +1,5 @@
 # CafeMenu-card
-CafeMenu-card Project Overview
-Goal of the Project:
+**Goal of the Project:**
 The primary goal of the CafeMenu-card project was to create a visually appealing and functional menu card for a café that enhances the customer experience. The menu card needed to be easy to read, navigate, and should effectively showcase the café's offerings without relying on JavaScript. By achieving this, the project aims to provide a seamless user experience and ensure that customers can easily find and select their desired items.
 
 Project Development:
